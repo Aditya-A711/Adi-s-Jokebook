@@ -1,0 +1,176 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "Make your day with this skill.",
+          "examplePhrases": [
+            "Alexa, start Adi\u0027s jokebook",
+            "Alexa, open Adi\u0027s jokebook"
+          ],
+          "keywords": [
+            "Adi",
+            "Jokebook",
+            "fun",
+            "funny",
+            "jokes",
+            "Aditya",
+            "Laugh",
+            "happy",
+            "Skill"
+          ],
+          "name": "Adi\u0027s jokebook",
+          "description": "Hello I am Aditya, the developer of this skill. These are a few of my funniest jokes that are guaranteed to make you laugh. There are multiple jokes, for all the family to laugh at. Enjoy : )",
+          "smallIconUri": "file://assets/images/en-US_smallIconUri.png",
+          "updatesDescription": "Over 10 different jokes to laugh at.",
+          "largeIconUri": "file://assets/images/en-US_largeIconUri.png"
+        },
+        "en-CA": {
+          "summary": "Make your day with this skill.",
+          "examplePhrases": [
+            "Alexa, start Adi\u0027s jokebook",
+            "Alexa, open Adi\u0027s jokebook"
+          ],
+          "keywords": [
+            "Adi",
+            "Jokebook",
+            "fun",
+            "funny",
+            "jokes",
+            "Aditya",
+            "Laugh",
+            "happy",
+            "Skill"
+          ],
+          "name": "Adi\u0027s jokebook",
+          "description": "Hello I am Aditya, the developer of this skill. These are a few of my funniest jokes that are guaranteed to make you laugh. There are multiple jokes, for all the family to laugh at. Enjoy : )",
+          "smallIconUri": "file://assets/images/en-CA_smallIconUri.png",
+          "updatesDescription": "Over 10 different jokes to laugh to.",
+          "largeIconUri": "file://assets/images/en-CA_largeIconUri.png"
+        },
+        "en-IN": {
+          "summary": "Make your day with this skill.",
+          "examplePhrases": [
+            "Alexa, start Adi\u0027s jokebook",
+            "Alexa, open Adi\u0027s jokebook"
+          ],
+          "keywords": [
+            "Adi",
+            "Jokebook",
+            "fun",
+            "funny",
+            "jokes",
+            "Aditya",
+            "Laugh",
+            "happy",
+            "Skill"
+          ],
+          "name": "Adi\u0027s jokebook",
+          "description": "Hello I am Aditya, the developer of this skill. These are a few of my funniest jokes that are guaranteed to make you laugh. There are multiple jokes, for all the family to laugh at. Enjoy : )",
+          "smallIconUri": "file://assets/images/en-IN_smallIconUri.png",
+          "updatesDescription": "Over 10 different jokes to laugh to.",
+          "largeIconUri": "file://assets/images/en-IN_largeIconUri.png"
+        },
+        "en-AU": {
+          "summary": "Make your day with this skill.",
+          "examplePhrases": [
+            "Alexa, start Adi\u0027s jokebook",
+            "Alexa, open Adi\u0027s jokebook"
+          ],
+          "keywords": [
+            "Adi",
+            "Jokebook",
+            "fun",
+            "funny",
+            "jokes",
+            "Aditya",
+            "Laugh",
+            "happy",
+            "Skill"
+          ],
+          "name": "Adi\u0027s jokebook",
+          "description": "Hello I am Aditya, the developer of this skill. These are a few of my funniest jokes that are guaranteed to make you laugh. There are multiple jokes, for all the family to laugh at. Enjoy : )",
+          "smallIconUri": "file://assets/images/en-AU_smallIconUri.png",
+          "updatesDescription": "Over 10 different jokes to laugh to.",
+          "largeIconUri": "file://assets/images/en-AU_largeIconUri.png"
+        },
+        "en-GB": {
+          "summary": "Make your day with this skill.",
+          "examplePhrases": [
+            "Alexa, start Adi\u0027s jokebook",
+            "Alexa, open Adi\u0027s jokebook"
+          ],
+          "keywords": [
+            "Adi",
+            "Jokebook",
+            "fun",
+            "funny",
+            "jokes",
+            "Aditya",
+            "Laugh",
+            "happy",
+            "Skill"
+          ],
+          "name": "Adi\u0027s jokebook",
+          "description": "Hello I am Aditya, the developer of this skill. These are a few of my funniest jokes that are guaranteed to make you laugh. There are multiple jokes, for all the family to laugh at. Enjoy : )",
+          "smallIconUri": "file://assets/images/en-GB_smallIconUri.png",
+          "updatesDescription": "Over 10 different jokes to make you laugh.",
+          "largeIconUri": "file://assets/images/en-GB_largeIconUri.png"
+        }
+      },
+      "automaticDistribution": {
+        "sourceLocaleForLanguages": [
+          {
+            "sourceLocale": "en-GB",
+            "language": "en"
+          }
+        ],
+        "isActive": true
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "My skill is very simple. It just tells jokes. No permission, no transactions, just a couple of laughs.",
+      "category": "NOVELTY",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:184661234586:function:0e2fd5a0-a3d9-4e75-94d5-d944e92b48ff:Release_1"
+        },
+        "interfaces": [],
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:184661234586:function:0e2fd5a0-a3d9-4e75-94d5-d944e92b48ff:Release_1"
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:184661234586:function:0e2fd5a0-a3d9-4e75-94d5-d944e92b48ff:Release_1"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:184661234586:function:0e2fd5a0-a3d9-4e75-94d5-d944e92b48ff:Release_1"
+            }
+          }
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "en-US": {},
+        "en-CA": {},
+        "en-IN": {},
+        "en-AU": {},
+        "en-GB": {}
+      },
+      "containsAds": false,
+      "isExportCompliant": true,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}
