@@ -16,7 +16,7 @@ This is a custom Alexa skill designed to entertain users by telling them random 
 - **JSON for intent schema and sample utterances**
 
 ## How It Works
-1. User says: “Alexa, tell me a joke.”
+1. User says: “Alexa, tell me a joke from Adi's Jokebook.”
 2. Alexa invokes the skill and triggers a Lambda function.
 3. The function selects a joke from a predefined list.
 4. Alexa speaks the joke to the user.
